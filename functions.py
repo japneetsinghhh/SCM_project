@@ -50,4 +50,4 @@ def calcDistance(place1, place2, lbl, root):
 	lbl.grid(row=4, column=0, columnspan=3, pady=10)
 
 def giveHelp():
-	messagebox.showinfo("More info!", "Dister can be used to get the distance between 2 locations.")
+	messagebox.showinfo("More info!!", "Dister can be used to get the distance between 2 locations.")
